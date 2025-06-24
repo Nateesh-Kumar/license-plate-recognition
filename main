@@ -1,0 +1,7 @@
+```bash
+cd license-plate-recognition
+git init
+git remote add origin https://github.com/yourusername/license-plate-recognition.git
+git add .
+git commit -m "Initial commit with full pipeline"
+git push -u origin main
